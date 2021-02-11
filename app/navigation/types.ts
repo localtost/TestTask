@@ -6,9 +6,6 @@ export type RootStackParamList = {
 export type HomeStackParamList = {
   Home: undefined;
 };
-export type SettingParamList = {
-  Settings: undefined;
-};
 export type PillsStackParamList = {
   Pills: undefined;
   Info: {
