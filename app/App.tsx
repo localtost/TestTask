@@ -5,7 +5,7 @@ import {SafeAreaProvider} from 'react-native-safe-area-context';
 const App: React.FC = () => {
   return (
     <SafeAreaProvider>
-      <MainStack />
+       <MainStack />
     </SafeAreaProvider>
   );
 };
